@@ -9,11 +9,11 @@
   'dtd1.2/technicalContent/dtd/concept.dtd'>
 
 <concept id="sample_concept" xml:lang="en-US">
-  <title>Title</title>
-  <shortdesc>My Abstract</shortdesc>
+  <title>A Visit to Library</title>
+  <shortdesc>We go to library to</shortdesc>
   <conbody>
-    <p>First paragraph</p>
-    <p>Second paragraph</p>
-    <p>Third paragraph</p>
+    <p>Borrow books to read</p>
+    <p>Refer to books and materials</p>
+    <p>Attend some community workshops amd trainings</p>
   </conbody>
 </concept>
