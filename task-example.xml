@@ -8,33 +8,31 @@
 <!-- (C) Copyright IBM Corporation 2001, 2005. All Rights Reserved.
  *-->
 <task id="changeoil" xml:lang="en-us">
-  <title>Changing the oil in your car</title>
-  <shortdesc>Once every 6000 kilometers or three months, change the oil in
-your car.</shortdesc>
+  <title>Self Check out a book from the library</title>
+  <shortdesc>Reading books help improve your knowledge.</shortdesc>
   <taskbody>
     <context>
-      <p>Changing the oil regularly will help keep the engine in good condition.  Do it every three
-        months.</p>
+      <p>Library is a great resource. They carry many books that you can borrow without having to purchase. When you become a member you get a card that you can use to checkout books.</p>
     </context>
     <steps>
-      <stepsection>To change the oil:</stepsection>
+      <stepsection>To checkout a book:</stepsection>
       <step>
-        <cmd>Remove the old oil filter.</cmd>
+        <cmd>Find your book using the catalogue.</cmd>
       </step>
       <step>
-        <cmd>Drain the old oil.</cmd>
+        <cmd>Take the book to the self checkout station.</cmd>
       </step>
       <step>
-        <cmd>Install a new oil filter and gasket.</cmd>
+        <cmd>Swipe your card in the card reader so that your id can be found in the system.</cmd>
       </step>
       <step>
-        <cmd>Add new oil to the engine.</cmd>
+        <cmd>Oce your profile is up on the system, place your books one by one on the barcode reader</cmd>
       </step>
       <step>
-        <cmd>Check the air filter and replace or clean it.</cmd>
+        <cmd>Wait for the reader to read the barcode and repeat for every book you plan on borrowing,</cmd>
       </step>
       <step>
-        <cmd>Top up the windshield washer fluid.</cmd>
+        <cmd>Collect your receipt and make sure to return the book by the due date to avoid any fine.</cmd>
       </step>
     </steps>
   </taskbody>
