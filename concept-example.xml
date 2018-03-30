@@ -9,11 +9,11 @@
   'dtd1.2/technicalContent/dtd/concept.dtd'>
 
 <concept id="sample_concept" xml:lang="en-US">
-  <title>A Visit to Library</title>
-  <shortdesc>We go to library to</shortdesc>
+  <title>Cary memorial Library</title>
+  <shortdesc>A Visit to the library</shortdesc>
   <conbody>
-    <p>Borrow books to read</p>
-    <p>Refer to books and materials</p>
-    <p>Attend some community workshops amd trainings</p>
+    <p>I go to the library to borrow books to read</p>
+    <p>Sometimes, I go there to just refer to books and materials quickly</p>
+    <p>There are also a lot of community workshops amd trainings that happen in the library and I love to attend some</p>
   </conbody>
 </concept>
