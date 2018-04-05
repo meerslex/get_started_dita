@@ -7,7 +7,7 @@
      applicable licenses.-->
 <!-- (C) Copyright IBM Corporation 2001, 2005. All Rights Reserved.
  *-->
-<task id="changeoil" xml:lang="en-us">
+<task id="checkout" xml:lang="en-us">
   <title>Self Check out a book from the library</title>
   <shortdesc>Reading books help improve your knowledge.</shortdesc>
   <taskbody>
@@ -37,7 +37,7 @@
     </steps>
   </taskbody>
   <related-links>
-    <link format="dita" href="concept-example.xml" type="concept"/>
-    <link format="dita" href="reference-example.xml" type="concept"/>
+    <link format="dita" href="../concept/concept-example.xml" type="concept"/>
+    <link format="dita" href="../reference/reference-example.xml" type="reference"/>
   </related-links>
 </task>
