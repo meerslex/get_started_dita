@@ -18,7 +18,7 @@
     
   </conbody>
   <related-links>
-   <link format="dita" href="../task/task-example.xml" type="task"/>
-   <link format="dita" href="../reference/reference-example.xml" type="reference"/> 
+   <link format="dita" href="task-example.xml" type="task"/>
+   <link format="dita" href="reference-example.xml" type="reference"/> 
   </related-links>
 </concept>
