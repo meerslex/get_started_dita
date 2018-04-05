@@ -2,10 +2,10 @@
 <!DOCTYPE reference PUBLIC 
 '-//OASIS//DTD DITA Reference//EN' 
   'dtd1.2/technicalContent/dtd/reference.dtd'>
-
+  
 <!--  This file is part of the DITA Open Toolkit project. See the accompanying LICENSE file for applicable license.  -->
 
-<reference id="troubleshooting" xml:lang="en-US">
+<reference id="finesholds" xml:lang="en-US">
   <title>Fines and Holds</title>
   <shortdesc>In addition to checking out books, you must also be aware of fines, dues and folds.</shortdesc>
   <refbody>
@@ -25,4 +25,8 @@
       <p>The inter-library service brings the book to Cary memorial library and intimates you via email when the book is ready to be picked up.</p>  
     </section>
   </refbody>
+  <related-links>
+    <link format="dita" href="../task/task-example.xml" type="task"/>
+    <link format="dita" href="../concept/concept-example.xml" type="concept"/> 
+  </related-links>
 </reference>
