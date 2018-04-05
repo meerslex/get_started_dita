@@ -37,7 +37,7 @@
     </steps>
   </taskbody>
   <related-links>
-    <link format="dita" href="../concept/concept-example.xml" type="concept"/>
-    <link format="dita" href="../reference/reference-example.xml" type="reference"/>
+    <link format="dita" href="concept-example.xml" type="concept"/>
+    <link format="dita" href="reference-example.xml" type="reference"/>
   </related-links>
 </task>
