@@ -1,0 +1,7 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE map PUBLIC "-//OASIS//DTD DITA Map//EN" "map.dtd">
+<map title="Cary Memorial Library">
+    <topicref href="concept/concept-example.xml"/>
+    <topicref href="task/task-example.xml"/>
+    <topicref href="reference/reference-example.xml"/>
+</map>
