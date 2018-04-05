@@ -7,7 +7,7 @@
 <!DOCTYPE concept
   PUBLIC '-//OASIS//DTD DITA Concept//EN'
   'dtd1.2/technicalContent/dtd/concept.dtd'>
-
+  
 <concept id="sample_concept" xml:lang="en-US">
   <title>Cary memorial Library</title>
   <shortdesc>A Visit to the library</shortdesc>
@@ -15,5 +15,10 @@
     <p>I go to the library to borrow books to read</p>
     <p>Sometimes, I go there to just refer to books and materials quickly</p>
     <p>There are also a lot of community workshops amd trainings that happen in the library and I love to attend some</p>
+    
   </conbody>
+  <related-links>
+   <link format="dita" href="../task/task-example.xml" type="task"/>
+   <link format="dita" href="../reference/reference-example.xml" type="reference"/> 
+  </related-links>
 </concept>
